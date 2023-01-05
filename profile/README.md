@@ -1,5 +1,5 @@
 # NCSS project
-![banner](./banner.png)
+![banner](/profile/banner.png)
 
 ### Have you ever experienced something like this?
 > A. What programming languages have you used?  
